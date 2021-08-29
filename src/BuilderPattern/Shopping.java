@@ -6,7 +6,7 @@ public class Shopping {
 
 
 		EcommApp ecom= new EcommApp();
-		ecom.login("sachinsapsap123@gmail.com", "test1234")
+		ecom.login("sachinsapsap123@gmail.com", "test12345")
 		              .search("Tshirts", "Black")
 		                 .addToCart("Tshirts")
 		                     .doPayment("1212hdfc.com", 1234, "test")
